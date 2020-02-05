@@ -4,6 +4,9 @@ There are some compatability issues with the SnowDrop application, and some more
 
 THIS IS A TEST BOOKMARKLET
 <p>Drag <a class="bookmarklet" href="javascript:(function(){alert('ZOMG');})()"> </a> to your bookmarks bar.</p>
-<a href="https://www.qries.com/">
+
+
+
+<a href="javascript:(function(){alert('ZOMG');})()">
 <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"width=150" height="70">
 </a>
