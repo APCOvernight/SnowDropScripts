@@ -4,7 +4,7 @@ There are some compatability issues with the SnowDrop application, and some more
 
 
 <p align="center">
-  <img src="../../raw/master/ezgif-6-96feb69bf3cc.gif" alt="demonstration of adding a bookmarklet">
+  <img src="./ezgif-6-96feb69bf3cc.gif" alt="demonstration of adding a bookmarklet">
 </p>
 
 [🛫 Book My Holiday](javascript:(function(){var accordionMenuFrameSource = $($("#homeMenu>#accordionMenu>iframe")[0]).attr('src');%20var%20from%20=%20accordionMenuFrameSource.lastIndexOf("=");%20var%20UserID%20=%20accordionMenuFrameSource.substr(from+1);%20openDatafileMaster('employees','DisplayNewAbsenceRequest?EDIT_REF='+UserID);})())
